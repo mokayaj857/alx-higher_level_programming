@@ -9,4 +9,4 @@ $('document').ready(function () {
     $('UL.my_list').empty();
   });
 });
-bbb
+
